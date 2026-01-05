@@ -112,3 +112,9 @@ Voir le fichier <a href="https://git.unistra.fr/t3-milkalcoholics/t3-sci25b-t3-a
 
 Ce projet a une vocation **scientifique**, **pédagogique** et **exploratoire**, orientée vers l’étude du design environnemental et de la psychologie humaine en milieu extrême.
 
+## ⚠️ Note importante sur les Assets
+
+Afin de respecter les limites de taille de GitHub, les fichiers sources volumineux (Assets 3D, Textures HD, PSD) n'ont pas été inclus dans ce dépôt.
+
+* **Pour jouer :** Téléchargez simplement la version compilée dans l'onglet **Releases** (tout est inclus dedans).
+* **Pour le code :** Ce dépôt contient uniquement les scripts C# et la structure du projet. Le projet Unity ne pourra pas être lancé tel quel sans les assets originaux.
