@@ -16,6 +16,13 @@ MemoryCaptures/
 /Release/
 /build/
 
+# ====== #
+# Assets #
+# ====== #
+
+Assets/AssetsPackagesSource/
+Assets/Furniture Mega Pack/
+
 # =================== #
 # Visual Studio files #
 # =================== #
